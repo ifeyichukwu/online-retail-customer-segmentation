@@ -110,6 +110,7 @@ customer-level analysis.
 ---
 
 ## Project Structure
+```
 online-retail-customer-segmentation/
 │
 ├── Online_Retail_Dataset.xlsx    # Cleaned dataset with all analysis sheets
@@ -119,6 +120,7 @@ online-retail-customer-segmentation/
 ├── top_products.png
 └── country_analysis.png
 
+```
 ---
 
 ## Author
