@@ -65,7 +65,7 @@ The raw dataset contained multiple quality issues addressed before analysis:
 1,727 identifiable customers were scored and segmented:
 
 | Segment | Count | % of Customers | Total Sum |
-|---|---|---|
+|---|---|---| --- |
 | Champion | 38 | 2.2% | 651064.58 |
 | Loyal | 265 | 15.3% | 747377.25 |
 | Potential Loyal | 465 | 26.9% | 349650.67 |
