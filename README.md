@@ -9,10 +9,9 @@ segment customers using RFM analysis to generate actionable business
 recommendations.
 
 **Tool:** Microsoft Excel  
-**Dataset:** UCI Online Retail II (Kaggle)  
+**Dataset Source:** [UCI Online Retail II on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)  
 **Records:** 541,910 transactions | 8 columns  
 **Analyst:** Gospel Arinze
-**Dataset Source:** [UCI Online Retail II on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 ---
 
