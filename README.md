@@ -124,5 +124,6 @@ online-retail-customer-segmentation/
 ## Author
 **Gospel Arinze**  
 Data Analyst | Product Analyst  
-[LinkedIn Profile URL](https://www.linkedin.com/in/gospel-arinze-55590424a/) \n
+[LinkedIn Profile URL](https://www.linkedin.com/in/gospel-arinze-55590424a/) 
+
 [GitHub Profile URL](https://github.com/ifeyichukwu)
