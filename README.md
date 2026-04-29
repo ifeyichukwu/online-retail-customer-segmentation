@@ -11,7 +11,7 @@ recommendations.
 **Tool:** Microsoft Excel  
 **Dataset:** UCI Online Retail II (Kaggle)  
 **Records:** 541,910 transactions | 8 columns  
-**Analyst:** Gospel [Your Last Name]
+**Analyst:** Gospel Arinze
 
 ---
 
