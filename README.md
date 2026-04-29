@@ -110,3 +110,19 @@ customer-level analysis.
 ---
 
 ## Project Structure
+online-retail-customer-segmentation/
+│
+├── Online_Retail_Dataset.xlsx    # Cleaned dataset with all analysis sheets
+├── README.md                     # Project documentation
+└── screenshots/                  # Key visuals from the analysis
+├── rfm_segments.png
+├── top_products.png
+└── country_analysis.png
+
+---
+
+## Author
+**Gospel Arinze**  
+Data Analyst | Product Analyst  
+[[LinkedIn Profile URL](https://www.linkedin.com/in/gospel-arinze-55590424a/)]  
+[[GitHub Profile URL](https://github.com/ifeyichukwu)]
