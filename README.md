@@ -122,7 +122,7 @@ online-retail-customer-segmentation/
 ```
 ## Dataset
 The cleaned dataset exceeds GitHub's file size limit.  
-Download it here: [Online Retail Dataset Analysed]((https://docs.google.com/spreadsheets/d/1Q6vKCyvUwc6ifFpIURkSeYUd2tw06ZwH/edit?usp=sharing&ouid=115494278096759273665&rtpof=true&sd=true)
+Download it here: [Online Retail Dataset Analysed](https://docs.google.com/spreadsheets/d/1Q6vKCyvUwc6ifFpIURkSeYUd2tw06ZwH/edit?usp=sharing&ouid=115494278096759273665&rtpof=true&sd=true)
 
 ---
 
