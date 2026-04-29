@@ -12,6 +12,7 @@ recommendations.
 **Dataset:** UCI Online Retail II (Kaggle)  
 **Records:** 541,910 transactions | 8 columns  
 **Analyst:** Gospel Arinze
+**Dataset Source:** [UCI Online Retail II on Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 ---
 
@@ -120,6 +121,9 @@ online-retail-customer-segmentation/
  └── country_analysis.png
 
 ```
+## Dataset
+The cleaned dataset exceeds GitHub's file size limit.  
+Download it here: [Online Retail Dataset (Cleaned)]((https://docs.google.com/spreadsheets/d/1Q6vKCyvUwc6ifFpIURkSeYUd2tw06ZwH/edit?usp=sharing&ouid=115494278096759273665&rtpof=true&sd=true)
 
 ---
 
