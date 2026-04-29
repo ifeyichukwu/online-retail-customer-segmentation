@@ -66,13 +66,13 @@ The raw dataset contained multiple quality issues addressed before analysis:
 
 | Segment | Count | % of Customers | Total Sum |
 |---|---|---| --- |
-| Champion | 38 | 2.2% | £651064.58 |
-| Loyal | 265 | 15.3% | £747377.25 |
-| Potential Loyal | 465 | 26.9% | £349650.67 |
-| At Risk | 251 | 14.5% | £391481.15 |
-| Lost | 260 | 15.1% | £139817.67 |
-| Needs Attention | 446 | 25.8% | £320425.31 |
-| High Value Customer Lost | 3 | 0.2% | £5580.04 |
+| Champion | 38 | 2.2% | £65,1064.58 |
+| Loyal | 265 | 15.3% | £74,7377.25 |
+| Potential Loyal | 465 | 26.9% | £34,9650.67 |
+| At Risk | 251 | 14.5% | £39,1481.15 |
+| Lost | 260 | 15.1% | £13,9817.67 |
+| Needs Attention | 446 | 25.8% | £32,0425.31 |
+| High Value Customer Lost | 3 | 0.2% | £5,580.04 |
 
 ---
 
