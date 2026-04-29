@@ -112,15 +112,15 @@ customer-level analysis.
 ## Project Structure
 ```
 online-retail-customer-segmentation/
-│
 ├── Online_Retail_Dataset.xlsx    # Cleaned dataset with all analysis sheets
 ├── README.md                     # Project documentation
-└── screenshots/                  # Key visuals from the analysis
-├── rfm_segments.png
-├── top_products.png
-└── country_analysis.png
+├── screenshots/                  # Key visuals from the analysis
+ └── rfm_segments.png
+ └── top_products.png
+ └── country_analysis.png
 
 ```
+
 ---
 
 ## Author
